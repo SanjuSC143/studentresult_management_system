@@ -1,4 +1,4 @@
-# studentresult_management_system
+# Studentresult_management_system
 
 
 Project of LGM
