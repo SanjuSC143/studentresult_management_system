@@ -15,3 +15,6 @@ Clone the repository
 move into the htdocs folder
 add database file to your database
 open your browser and run with localhost/(your file name)
+
+[![Studentresult_management_system
+](https://img.youtube.com/vi/2faOqxJG31w/0.jpg)](https://www.youtube.com/watch?v=2faOqxJG31w)
